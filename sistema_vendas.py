@@ -1,5 +1,5 @@
 #Código desenvolvido por: @programmerantunes
-#LinkedIn: www.linkedin.com/Matheus-A-Barboza
+#LinkedIn: www.linkedin.com/in/matheus-barboza-798b901b3/
 #GitHub: www.github.com/Matheus-A-Barboza
 #Feedback's através das redes sociais
 
