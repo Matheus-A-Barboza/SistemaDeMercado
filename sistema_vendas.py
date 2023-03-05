@@ -10,7 +10,7 @@ conexao = pymysql.connect(
     host='localhost',
     user='root',
     password='',
-    database='dbsistemavendas',
+    database='sistemavendas',
 )
 
 cursor = conexao.cursor()
